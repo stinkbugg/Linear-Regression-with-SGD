@@ -5,10 +5,11 @@ In this assignment, you will implement three functions train, use, and rmse and 
 model = train(X, T, learning_rate, n_epochs, verbose)
 
 X: is an 𝑁
- x 𝐷
- matrix of input data samples, one per row. 𝑁
- is the number of samples and 𝐷
- is the number of variable values in each sample.
+- x 𝐷
+- matrix of input data samples, one per row. 𝑁
+- is the number of samples and 𝐷
+- is the number of variable values in each sample.
+
 T: is an 𝑁
  x 𝐾
  matrix of desired target values for each sample. 𝐾
